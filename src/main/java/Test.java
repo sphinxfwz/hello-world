@@ -12,4 +12,8 @@ public class Test {
         System.out.println(22222);
     }
 
+    public void me(){
+        new String();
+    }
+
 }
