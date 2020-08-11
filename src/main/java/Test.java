@@ -1,4 +1,4 @@
-
+import com.sun.org.apache.xpath.internal.operations.String;
 
 /**
  * Author:fangwz
@@ -8,12 +8,12 @@
 public class Test {
 
     public void test(){
-        System.out.println(2);
-        System.out.println(22222);
+        new String();
+        System.out.println(223322);
     }
 
-    public void me(){
-        new String();
+    public void sdad(){
+        System.out.println(123123);
     }
 
 }
