@@ -7,14 +7,10 @@ import com.sun.org.apache.xpath.internal.operations.String;
  */
 public class Test {
 
-    public boolean test(){
+    public void test(){
         new String();
         System.out.println(223322);
-        return true;
     }
 
-    public void sdad(){
-        System.out.println(123123);
-    }
 
 }
